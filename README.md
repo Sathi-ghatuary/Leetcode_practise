@@ -38,10 +38,10 @@ Maintain a daily LeetCode streak
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/leetcode_practise.git
+   git clone https://github.com/Sathi-ghatuary/leetcode_practise.git
 Open any .java file inside your favorite IDE (e.g., IntelliJ, VS Code, Eclipse).
 
-2.Compile and run:
+2. Compile and run:
 
 javac FileName.java
 java FileName
