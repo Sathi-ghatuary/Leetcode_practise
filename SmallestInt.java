@@ -1,4 +1,5 @@
-class class SmallestInt {
+
+ class SmallestInt {
     public int findSmallestInteger(int[] nums, int value) {
         int n=nums.length,res=0;
         int[] rem=new int[value];
